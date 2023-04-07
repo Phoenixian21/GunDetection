@@ -5,7 +5,7 @@
 
 #### Mobile
 - [Flutter](https://flutter.dev/)
-- [React Native](https://reactnative.dev/)
+
 
 We also recommend checking out the following tutorials:
 - [Building a Machine Learning App with Flutter](https://heartbeat.fritz.ai/building-a-machine-learning-app-with-flutter-71699b43d954)
